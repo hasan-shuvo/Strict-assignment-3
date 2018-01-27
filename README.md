@@ -1,0 +1,1 @@
+# Strict-assignment-3
